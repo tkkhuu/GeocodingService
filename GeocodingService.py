@@ -207,10 +207,3 @@ class GeocodingService(object):
         return lat_long
     
 
-
-
-    
-'''
-g = GeocodingService()
-g.Get("San Francisco, CA")
-'''
